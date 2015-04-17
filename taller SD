@@ -1,0 +1,5 @@
+Taller sistemas distribuidos:
+
+-Diseñar sistema de distribucion de réplicas de una base de datos de una compañia de cosmeticos.
+- La compañia XYZ tiene 5 sucursales.
+- Se requiere que su sistema de base de datos este activo todo el tiempo a pesar que los apagones y daños en los centros de computo han venido sucediendose en 2 ciudades a la vez del grupo de las 5 sucursales.
